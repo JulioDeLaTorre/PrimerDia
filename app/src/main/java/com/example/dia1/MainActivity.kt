@@ -20,8 +20,6 @@ class MainActivity : ComponentActivity() {
         setContent {
             DIa1Theme {
                 //Prueba1
-                //22130819
-                //Desarrollo de aplicaciones android
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
