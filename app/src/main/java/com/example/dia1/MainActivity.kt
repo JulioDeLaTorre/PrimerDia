@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                 //Prueba1
                 //22130819
                 //Desarrollo de aplicaciones android
-                //20
+                //Esta rama tiene una modificacion en el nombre
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
